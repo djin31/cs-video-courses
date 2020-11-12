@@ -241,8 +241,7 @@ Courses
 	- [iOS Course, Dave Fisher](https://www.youtube.com/playlist?list=PL96C635E4DCD393A8)
 	- [Developing iPad Applications for Visualization and Insight - Carnegie Mellon University](https://itunes.apple.com/us/course/developing-ipad-applications/id499050344)
 	- [Mobile Computing - IIT Madras](http://nptel.ac.in/courses/106106147/)
-
-------------------------------
+        - [MOOC CS50's Mobile App Development with React native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
 
 ### Artificial Intelligence
 - [CS 188 - Introduction to Artificial Intelligence, UC Berkeley](http://ai.berkeley.edu/home.html)
